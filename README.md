@@ -7,6 +7,9 @@ Built with ❤️ by **Plum Layers**.
 
 ---
 
+![Baby Yeti Desk Robot](https://github.com/biswatma/babyyeti/raw/main/babyyetiimage.jpg)
+
+
 ## ✨ Features
 
 ### 🧠 Core
