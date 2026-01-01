@@ -1,4 +1,4 @@
-# 🧸 Yeti Desk Robot (ESP32-C3)
+# 🧸 Baby Yeti Desk Robot (ESP32-C3)
 
 A fun, interactive desk robot built using **ESP32-C3**, **OLED display**, and a **single capacitive touch button**.  
 Designed for makers who enjoy playful UI, animations, clocks, and one-button games.
@@ -8,6 +8,15 @@ Built with ❤️ by **Plum Layers**.
 ---
 
 ![Baby Yeti Desk Robot](https://github.com/biswatma/babyyeti/raw/main/babyyetiimage.jpg)
+
+## 🖨️ 3D Printed Body
+
+The robot body used in this project is based on an open 3D model from **MakerWorld**:
+
+🔗 **Compagnon 3.0.9 – Build Your Expressive Robot**  
+https://makerworld.com/en/models/2109424-compagnon-309-build-your-expressive-robot#profileId-2281938
+
+This firmware is adapted to fit inside the Compagnon-style body and drive expressive eye animations, touch interaction, and games.
 
 
 ## ✨ Features
