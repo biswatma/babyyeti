@@ -100,5 +100,4 @@ Recommended settings in **Tools** menu:
 
 ---
 
-## 📁 Project Structure
 
