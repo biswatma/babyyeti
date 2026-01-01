@@ -5,6 +5,13 @@ Designed for makers who enjoy playful UI, animations, clocks, and one-button gam
 
 Built with ❤️ by **Plum Layers**.
 
+## 🌸 Plum Layers
+
+Follow **Plum Layers** for more 3D printing, electronics, and creative builds:
+
+📸 Instagram: https://www.instagram.com/plumlayers/
+
+
 ---
 
 ![Baby Yeti Desk Robot](https://github.com/biswatma/babyyeti/raw/main/babyyetiimage.jpg)
