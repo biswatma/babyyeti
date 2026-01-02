@@ -101,3 +101,42 @@ Recommended settings in **Tools** menu:
 ---
 
 
+---
+🐍 Bonus: Snake Game (Wi-Fi / Joystick Controlled)
+
+This repository also includes an experimental Snake game implementation for Baby Yeti.
+
+📁 File: snakegame.ino
+
+This version is intentionally kept separate from the main firmware, so makers can experiment freely without affecting the core desk-robot features.
+
+🎮 Control Options
+
+The Snake game is designed to be flexible and can be controlled in multiple ways:
+
+🌐 Option 1: Phone as Controller (Wi-Fi – Recommended)
+
+ESP32-C3 starts its own Wi-Fi Access Point
+
+Open a browser on your phone
+
+A touch-friendly D-pad controller appears
+
+No app, no Bluetooth, no internet required
+
+This is the easiest and most demo-friendly way to play.
+
+🕹 Option 2: Physical Joystick (DIY)
+
+If you prefer hardware controls, you can:
+
+Connect a PS2 joystick module
+
+Or map directions to buttons
+
+Replace the web input logic with GPIO reads
+
+The game logic is kept simple so it’s easy to adapt.
+---
+
+
